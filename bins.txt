@@ -1,0 +1,50 @@
+
+
+-rwsr-xr-x 1 root root 209304 Jun 16 21:49 /opt/google/chrome/chrome-sandbox
+-rwsr-xr-x 1 root root 19040 Apr  7 22:47 /usr/libexec/polkit-agent-helper-1
+-rwsr-sr-x 1 root root 14608 Apr 13 12:07 /usr/lib/xorg/Xorg.wrap
+-rwsr-xr-- 1 root messagebus 51336 Feb 21 09:02 /usr/lib/dbus-1.0/dbus-daemon-launch-helper
+-rwxr-sr-x 1 root utmp 14328 Dec  5  2020 /usr/lib/x86_64-linux-gnu/utempter/utempter
+-rwsr-xr-x 1 root root 481608 Mar 13 04:59 /usr/lib/openssh/ssh-keysign
+-rwsr-xr-x 1 root root 52880 Feb  7  2020 /usr/bin/chsh
+-rwsr-xr-- 1 root kismet 146136 May 21 05:43 /usr/bin/kismet_cap_rz_killerbee
+-rwsr-xr-- 1 root kismet 146136 May 21 05:43 /usr/bin/kismet_cap_nrf_52840
+-rwsr-xr-x 1 root root 182600 Feb 27 03:28 /usr/bin/sudo
+-rwsr-xr-x 1 root root 44632 Feb  7  2020 /usr/bin/newgrp
+-rwsr-xr-x 1 root root 158448 Feb 23 16:23 /usr/bin/ntfs-3g
+-rwsr-xr-- 1 root kismet 146136 May 21 05:43 /usr/bin/kismet_cap_ti_cc_2540
+-rwxr-sr-x 1 root shadow 31160 Feb  7  2020 /usr/bin/expiry
+-rwsr-xr-x 1 root root 35048 Apr 21 08:34 /usr/bin/fusermount3
+-rwsr-xr-- 1 root kismet 146136 May 21 05:43 /usr/bin/kismet_cap_ubertooth_one
+-rwsr-xr-x 1 root root 14832 Feb 25 11:49 /usr/bin/vmware-user-suid-wrapper
+-rwsr-xr-- 1 root kismet 146136 May 21 05:43 /usr/bin/kismet_cap_nrf_mousejack
+-rwsr-xr-- 1 root kismet 146136 May 21 05:43 /usr/bin/kismet_cap_ti_cc_2531
+-rwxr-sr-x 1 root ssh 354440 Mar 13 04:59 /usr/bin/ssh-agent
+-rwsr-xr-x 1 root root 58416 Feb  7  2020 /usr/bin/chfn
+-rwsr-xr-- 1 root kismet 146136 May 21 05:43 /usr/bin/kismet_cap_nxp_kw41z
+-rwsr-xr-x 1 root root 63960 Feb  7  2020 /usr/bin/passwd
+-rwxr-sr-x 1 root shadow 80256 Feb  7  2020 /usr/bin/chage
+-rwsr-xr-x 1 root root 71912 Feb  7 09:38 /usr/bin/su
+-rwxr-sr-x 1 root root 15208 Nov 19  2020 /usr/bin/dotlock.mailutils
+-rwxr-sr-x 1 root tty 35048 Feb  7 09:38 /usr/bin/wall
+-rwsr-xr-- 1 root kismet 215480 May 21 05:43 /usr/bin/kismet_cap_linux_wifi
+-rwxr-sr-x 1 root mail 23040 Feb  4 10:18 /usr/bin/dotlockfile
+-rwxr-sr-x 1 root tty 22760 Feb  7 09:38 /usr/bin/write.ul
+-rwsr-xr-x 1 root root 23440 Apr  7 22:47 /usr/bin/pkexec
+-rwxr-sr-x 1 root mlocate 43240 Dec  2  2020 /usr/bin/mlocate
+-rwsr-xr-x 1 root root 88304 Feb  7  2020 /usr/bin/gpasswd
+-rwxr-sr-x 1 root crontab 43568 Feb 22 17:43 /usr/bin/crontab
+-rwsr-xr-x 1 root root 55528 Feb  7 09:38 /usr/bin/mount
+-rwsr-xr-- 1 root kismet 142040 May 21 05:43 /usr/bin/kismet_cap_nrf_51822
+-rwsr-xr-- 1 root kismet 158424 May 21 05:43 /usr/bin/kismet_cap_linux_bluetooth
+-rwsr-xr-x 1 root root 35040 Feb  7 09:38 /usr/bin/umount
+-rwsr-xr-x 1 root root 43952 May  6 15:24 /usr/sbin/mount.cifs
+-rwsr-xr-x 1 root root 1360680 May 17 11:45 /usr/sbin/exim4
+-rwsr-xr-- 1 root dip 403752 Jan  6 19:10 /usr/sbin/pppd
+-rwsr-xr-x 1 root root 114784 Mar  9 11:17 /usr/sbin/mount.nfs
+-rwxr-sr-x 1 root shadow 38912 Mar 15 15:01 /usr/sbin/unix_chkpwd
+-rwxr-sr-x 1 root shadow 38912 Mar 15 15:01 /bin/nmap
+
+
+
+
