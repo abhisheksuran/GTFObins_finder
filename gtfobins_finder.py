@@ -59,7 +59,7 @@ def main(txt_file):
 
         except Exception:
             print("KINDLY CHECK THE INTERNET CONNECTIVITY")
-            break
+            sys.exit()
 
 
     if len(ok_status) >0:
