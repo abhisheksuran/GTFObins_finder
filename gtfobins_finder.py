@@ -39,7 +39,7 @@ def main(txt_file):
 
         #print(all_bins)
 
-    except Exception as FileNotFoundError:
+    except Exception:
         print(FileNotFoundError)
         sys.exit()
 
@@ -58,16 +58,16 @@ def main(txt_file):
                 ok_status.append(bins)
 
         except Exception:
-            print("KINDLY CHECK THE INTERNET CONNECTIVITY")
+            print("************** KINDLY CHECK THE INTERNET CONNECTIVITY **************")
             sys.exit()
 
 
     if len(ok_status) >0:
-        print("[+] FOLLOWING BINS ARE AVAILABLE FOR THE SUID")
+        print("[+] FOLLOWING BINS ARE AVAILABLE FOR THE SUID [+]")
         for b in ok_status:
             print(f'> {b}')
     else:
-        print("NO BINS AVAILBLE FOR THE SUID ON GTFOBINS")
+        print("[-] NO BINS AVAILBLE FOR THE SUID ON GTFOBINS [-]")
 
     #print(ok_status)
     #print(all_status)
