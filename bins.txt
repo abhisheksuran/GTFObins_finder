@@ -56,4 +56,4 @@
 -rwsr-xr-x 1 root root 44664 Jan 25  2018 /bin/su
 -rwsr-xr-x 1 root root 146128 Nov 30  2017 /bin/ntfs-3g
 -rwsr-xr-x 1 root root 64424 Mar  9  2017 /bin/ping
--rwsr-xr-x 1 root root 43088 Mar 15  2018 /bin/mount
+-rwsr-xr-x 1 root root 43088 Mar 15  2018 /bin/nmap
